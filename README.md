@@ -24,3 +24,7 @@
 | [Siacoin (SC)](http://sia.tech/) | Sia is a decentralized network of datacenters that, taken together, comprise the world's fastest, cheapest, and most secure cloud storage platform. | • You get rewarded for renting out your computer storage <br/> • Files are split across the network & encrypted so no need to worry about privacy | • Low adoption | [Bittrex](https://bittrex.com), [Poloniex](https://poloniex.com/) | Golem, Storj | Storage Network 
 | [Lykke (LKK)](https://www.lykke.com/) | Next-generation trading platform with zero commission | • You can trade colored coins that are associated with physical assets <br/> • 0 trading fees <br/> • Each Lykke coin represents a share in the company | • No mining available <br/> • Coin is available only via their mobile app <br/> • Not available in the US | N/A | Bitshares, Waves | Decentralized Exchange
 | [Komodo (KMD)](https://komodoplatform.com/) | Komodo Platform aims to provide security to third-party blockchains using delayed Proof of Work (dPoW) and zero-proof knowledge based on Zcash | • Allows developers to build independent blockchains <br /> • Resistant to parent chain's fee inflation <br /> • Zcash-level privacy <br /> • Support smart contracts development <br/> • Atomic cross-chain swap possible, hence no exchange fee on its DEX. | • Relatively unknown | [Bittrex](https://bittrex.com) | Ethereum, Stratis | Platform, Decentralized Exchange
+
+Also available in [Google Spreadsheet](https://docs.google.com/spreadsheets/d/1LJpfU4FdCE_AG8IJZspO0dMmU1k2-4pTSFk5Zxmyig8/edit#gid=0)
+
+
