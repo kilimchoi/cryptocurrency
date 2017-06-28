@@ -1,3 +1,4 @@
+Check out http://coingenius.io for tracking your portfolio, top cryptocurrencies, and top exchanges.
 # Cryptocurrency
 
 | Name          | Description                                              | Pros                                                                  | Cons                                             | Where to buy                                                           | Similar to | Category |
