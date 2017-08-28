@@ -28,4 +28,6 @@ Check out http://coingenius.io for tracking your portfolio, top cryptocurrencies
 | [Dogecoin (DOGE)](http://dogecoin.com/) | Dogecoin is a cryptocurrency featuring a likeness of the Shiba Inu dog from the "Doge" Internet meme as its logo. | • Easy to send payments online | • Coin is not taken seriously. <br/> • No unique technical feature | [Bittrex](https://bittrex.com), [Poloniex](https://poloniex.com/) | Steem | Currency
 | [Stellar Lumens (XLM)](https://www.stellar.org/) | Stellar is a platform that connects banks, payments systems, and people. | • Instant payment (2-5 seconds) <br/> • Customizable payment infrastructure| • No mining available. 90% of Lumens are owned by the founders | [Bittrex](https://bittrex.com), [Poloniex](https://poloniex.com/) | Ripple | Payment Network 
 
+## More Resources
 
+-  **[kennethreitz/awesome-coins](https://github.com/kennethreitz/awesome-coins)** (GitHub Repo) 
