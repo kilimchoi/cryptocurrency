@@ -29,3 +29,4 @@
 ## More Resources
 
 -  **[kennethreitz/awesome-coins](https://github.com/kennethreitz/awesome-coins)** (GitHub Repo)
+-  **[Golden Cryptocurrency and Blockchain cluster](https://golden.co/wiki/Cluster%3A_Blockchain_%26_cryptocurrency)** (Cluster of pages about cryptocurrencies and blockchain)
