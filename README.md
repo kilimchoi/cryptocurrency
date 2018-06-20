@@ -1,3 +1,4 @@
+Check out https://coinbuddy.co/coins to track which exchanges support your favorite coin
 # Cryptocurrency
 
 | Name          | Description                                              | Pros                                                                  | Cons                                             | Where to buy                                                           | Similar to | Category |
